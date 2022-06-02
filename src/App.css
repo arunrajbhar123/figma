@@ -1,5 +1,12 @@
 .App {
-  text-align: center;
+  /* text-align: center; */
+}
+.light-Mode{
+  background-color: rgb(255, 255, 255);
+}
+.dark-Mode{
+background-color: rgb(39, 37, 37);
+color:#fff;
 }
 
 .App-logo {
